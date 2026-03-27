@@ -48,7 +48,7 @@ Use this if you:
 
 ## Installation
 
-**1.** Download `ffmpeg-kit-hardware.aar` from [Releases](../../releases).
+**1.** Download `ffmpeg-kit-hardware.aar`.
 
 **2.** Place in your `libs/` folder and add to `build.gradle.kts`:
 
