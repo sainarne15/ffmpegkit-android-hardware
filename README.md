@@ -2,7 +2,6 @@
 
 Pre-built FFmpegKit AAR for Android with **hardware-accelerated H.264 and H.265 encoding** via MediaCodec. LGPL licensed. 16KB page aligned for Android 15+.
 
-
 ---
 
 ## Why This Exists
