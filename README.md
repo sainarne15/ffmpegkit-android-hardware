@@ -122,8 +122,14 @@ export ANDROID_NDK_ROOT=/path/to/android-ndk-r27c
 
 </details>
 
+## Used By
+
+- [CompressYourVideo](https://compressyourvideo.com) - Free video compressor for Android and web. No ads, no watermark, no data collection.
+
+
 ## License
 
 LGPL 3.0. No GPL components. Safe for commercial closed-source applications.
 
 Based on [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) and [moizhassankh/ffmpeg-kit-android-16KB](https://github.com/moizhassankh/ffmpeg-kit-android-16KB).
+
